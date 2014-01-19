@@ -5,13 +5,13 @@
 
 standard-app-packages
 preserve-inputs
-less
 jquery
 underscore
 handlebar-helpers
 iron-router
-bootstrap3-less
 accounts-password
 accounts-entry
 accounts-ui
 iron-router-progress
+bootstrap-3
+stylus

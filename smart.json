@@ -1,8 +1,8 @@
 {
   "packages": {
     "iron-router": {},
-    "handlebar-helpers": {},
-    "bootstrap3-less": {},
+    "handlebar-helpers": {},   
+    "bootstrap-3":{},
     "accounts-entry": {},
     "iron-router-progress": {}
   }

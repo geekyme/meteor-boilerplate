@@ -1,4 +1,5 @@
 # meteor-boilerplate
+A fork of the original [meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate) to accommodate stylus users.
 
 This boilerplate is here to give you a structure for typical meteor projects, with a console tool to ease up some tasks. 
 
@@ -59,13 +60,13 @@ meteor-boilerplate		# Command line tool
 
 * standard-app-packages
 * preserve-inputs
-* less
+* stylus
 * jquery
 * underscore
 * handlebar-helpers
 * iron-router
 * iron-router-progress
-* bootstrap3-less
+* bootstrap-3
 * accounts-password
 * accounts-entry
 * accounts-ui
